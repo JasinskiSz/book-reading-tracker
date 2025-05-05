@@ -1,0 +1,30 @@
+HELP.md
+/spring-backend/target/
+!/spring-backend/.mvn/wrapper/maven-wrapper.jar
+!/spring-backend/**/src/main/**/target/
+!/spring-backend/**/src/test/**/target/
+
+### STS ###
+/spring-backend/.apt_generated
+/spring-backend/.classpath
+/spring-backend/.factorypath
+/spring-backend/.project
+/spring-backend/.settings
+/spring-backend/.springBeans
+/spring-backend/.sts4-cache
+
+### IntelliJ IDEA ###
+/spring-backend/.idea
+/spring-backend/*.iws
+/spring-backend/*.iml
+/spring-backend/*.ipr
+
+### NetBeans ###
+/spring-backend/nbproject/private/
+/spring-backend/nbbuild/
+/spring-backend/dist/
+/spring-backend/nbdist/
+/spring-backend/.nb-gradle/
+/spring-backend/build/
+!spring-backend/**/src/main/**/build/
+!spring-backend/**/src/test/**/build/
